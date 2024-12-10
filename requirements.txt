@@ -1,0 +1,10 @@
+pip-chill==1.0.3
+pyg-lib==0.4.0+pt20cu117
+seaborn==0.13.2
+torch-cluster==1.6.3+pt20cu117
+torch-geometric==2.6.1
+torch-scatter==2.1.2+pt20cu117
+torch-sparse==0.6.18+pt20cu117
+torch-spline-conv==1.2.2+pt20cu117
+torchaudio==2.0.2
+torchvision==0.15.2
