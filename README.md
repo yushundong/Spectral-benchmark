@@ -1,6 +1,6 @@
 # Spectral Benchmark
 
-This repository holds the code for the ICLR 2025 submission “Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking From a Spectral Perspective”.
+This repository holds the code for the research work “Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking From a Spectral Perspective” published in ICLR 2025.
 
 To run the code, first set up all the dependencies by running the following command:
 
