@@ -1,4 +1,4 @@
-# Spectral Benchmark
+# Graph Neural Networks Are More Than Filters
 
 This repository holds the code for the research work “Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking From a Spectral Perspective” published in ICLR 2025.
 
