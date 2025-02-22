@@ -2,6 +2,16 @@
 
 This repository holds the code for the research work “Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking From a Spectral Perspective” published in ICLR 2025.
 
+## Citation
+```
+@inproceedings{dong2025graph,
+  title={Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking from A Spectral Perspective},
+  author={Dong, Yushun and Soga, Patrick and He, Yinhan and Wang, Song and Li, Jundong},
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025}
+}
+```
+
 To run the code, first set up all the dependencies by running the following command:
 
 ```bash
