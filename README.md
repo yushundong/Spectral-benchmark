@@ -12,6 +12,8 @@ This repository holds the code for the research work “Graph Neural Networks Ar
 }
 ```
 
+## Usage
+
 To run the code, first set up all the dependencies by running the following command:
 
 ```bash
@@ -21,7 +23,7 @@ pip3 install -r requirements.txt
 ```
 Now run `cd src` and follow the instructions below.
 
-## Exploratory Study
+## Exploratory Study Details
 
 ### Figures 1 & 7 &ndash; 10
 These plots belong to the exploratory study, showcasing the capability of GNNs to shift energy distributions between frequencies. To generate the exploratory study plots, run `run_exploratory.sh`. All generated plots and model outputs will be saved in the `exploratory_study/results` directory.
